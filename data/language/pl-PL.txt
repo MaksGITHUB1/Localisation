@@ -36,7 +36,7 @@ STR_0031    :Nieznane stoisko (1D)
 STR_0032    :Budka z napojami
 STR_0033    :Nieznane stoisko (1F)
 STR_0034    :Stoisko
-STR_0035    :Merry-Go-Round
+STR_0035    :Karuzela
 STR_0036    :Nieznane stoisko (22)
 STR_0037    :Punkt informacyjny
 STR_0038    :Toalety
@@ -70,7 +70,7 @@ STR_0065    :Suspended Monorail
 STR_0066    :Nieznana atrakcja (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini golf
+STR_0069    :Mini Golf
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
 STR_0072    :Latające spodki
@@ -81,7 +81,7 @@ STR_0076    :Wodna kolejka
 STR_0077    :Air Powered Vertical Coaster
 STR_0078    :Inverted Hairpin Coaster
 STR_0079    :Magiczny Dywan
-STR_0080    :Submarine Ride
+STR_0080    :Przejażdżka okrętem podwodnym
 STR_0081    :Tratwy
 STR_0082    :Nieznana atrakcja (50)
 STR_0083    :Enterprise
@@ -244,11 +244,11 @@ STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x 
 STR_0847    :O 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
+STR_0851    :{WINDOW_COLOUR_2}Zaprojektowanie i zaprogramowanie: Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafika: Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Dźwięk i muzyka: Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
+STR_0854    :{WINDOW_COLOUR_2}Dodatkowe dźwięki: David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Reprezentowane przez Jacqui Lyons z Marjacq Ltd.
 STR_0856    :{WINDOW_COLOUR_2}Podziękowania dla:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth i John Wardley
 STR_0865    :{STRINGID}
@@ -558,7 +558,7 @@ STR_1169    :(Brak)
 STR_1170    :{STRING}
 STR_1171    :{RED}Zamknięte - -
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Budowa chodników
+STR_1173    :{SMALLFONT}{BLACK}Budowa ścieżek
 STR_1174    :Baner blokuje
 STR_1175    :Nie można tego postawić na nierównej ścieżce
 STR_1176    :Nie można tu postawić ścieżki...
@@ -847,7 +847,7 @@ STR_1458    :{WINDOW_COLOUR_2}Czas w parku: {BLACK}{REALTIME}
 STR_1459    :Styl trasy
 STR_1460    :{SMALLFONT}{BLACK}Otwarta trasa typu "U"
 STR_1461    :{SMALLFONT}{BLACK}Zamknięta trasa typu "O"
-STR_1462    :Too steep for lift hill
+STR_1462    :Za stromo na wzniesienie
 STR_1463    :Goście
 STR_1464    :Spirala w górę (mała)
 STR_1465    :Spirala w górę (duża)
@@ -869,8 +869,8 @@ STR_1480    :{SMALLFONT}“Nie mogę sobie pozwolić na {STRINGID}”
 STR_1481    :{SMALLFONT}“Wydałem wszystkie swoje pieniądze”
 STR_1482    :{SMALLFONT}“Niedobrze mi”
 STR_1483    :{SMALLFONT}“Zaraz zwymiotuję”
-STR_1484    :{SMALLFONT}“Chcę pójść na coś bardziej intensywnego niż {STRINGID}”
-STR_1485    :{SMALLFONT}“{STRINGID} wygląda zbyt intensywne dla mnie”
+STR_1484    :{SMALLFONT}“Chcę pójść na coś bardziej intensywniejszego niż {STRINGID}”
+STR_1485    :{SMALLFONT}“{STRINGID} wygląda zbyt intensywnie dla mnie”
 STR_1486    :{SMALLFONT}“Nie skończyłem {STRINGID} jeszcze”
 STR_1487    :{SMALLFONT}“Od samego patrzenia na {STRINGID} robi mi się niedobrze”
 STR_1488    :{SMALLFONT}“Nie zapłacę tyle za {STRINGID}”
@@ -1727,7 +1727,7 @@ STR_2373    :Średnie
 STR_2374    :Wysokie
 STR_2375    :Bardzo wysokie
 STR_2376    :Ekstremalne
-STR_2377    :Ultra-ekstremalne
+STR_2377    :Bardzo ekstremalne
 STR_2378    :{SMALLFONT}{BLACK}Zmniejsz zasięg zmian
 STR_2379    :{SMALLFONT}{BLACK}Zwiększ zasięg zmian
 STR_2380    :{SMALLFONT}{BLACK}Zmniejsz zasięg zmian
@@ -1868,7 +1868,7 @@ STR_2534    :Tab
 STR_2537    :Wyczyść
 STR_2538    :Wróć
 STR_2543    :Alt/Menu
-STR_2544    :Pause
+STR_2544    :Pauza
 STR_2545    :Caps
 STR_2552    :Escape
 STR_2557    :Spacja
